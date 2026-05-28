@@ -1,0 +1,6 @@
+{
+  "name": "TrackIt",
+  "description": "An elegant, Apple-inspired personal inventory tracker to help you remember where you place your belongings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Item Tracking", "Location Management", "Reminders", "Search & Filters"]
+}
